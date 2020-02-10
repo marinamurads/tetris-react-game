@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tetris-react-game/static/css/main.805ccc92.chunk.css",
+    "main.js": "/tetris-react-game/static/js/main.8bbe9148.chunk.js",
+    "main.js.map": "/tetris-react-game/static/js/main.8bbe9148.chunk.js.map",
+    "runtime-main.js": "/tetris-react-game/static/js/runtime-main.f4d056a0.js",
+    "runtime-main.js.map": "/tetris-react-game/static/js/runtime-main.f4d056a0.js.map",
+    "static/js/2.2896dd9a.chunk.js": "/tetris-react-game/static/js/2.2896dd9a.chunk.js",
+    "static/js/2.2896dd9a.chunk.js.map": "/tetris-react-game/static/js/2.2896dd9a.chunk.js.map",
+    "index.html": "/tetris-react-game/index.html",
+    "precache-manifest.6ed9f489e5c2189ffea2f59b12c18244.js": "/tetris-react-game/precache-manifest.6ed9f489e5c2189ffea2f59b12c18244.js",
+    "service-worker.js": "/tetris-react-game/service-worker.js",
+    "static/css/main.805ccc92.chunk.css.map": "/tetris-react-game/static/css/main.805ccc92.chunk.css.map",
+    "static/js/2.2896dd9a.chunk.js.LICENSE.txt": "/tetris-react-game/static/js/2.2896dd9a.chunk.js.LICENSE.txt",
+    "static/media/34805.jpg": "/tetris-react-game/static/media/34805.08aa6c8e.jpg",
+    "static/media/index.css": "/tetris-react-game/static/media/Pixel-LCD-7.e2897552.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4d056a0.js",
+    "static/js/2.2896dd9a.chunk.js",
+    "static/css/main.805ccc92.chunk.css",
+    "static/js/main.8bbe9148.chunk.js"
+  ]
+}
